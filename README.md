@@ -12,6 +12,7 @@
 
 @kpathe/Spotify-Web-Mobile is a web-based and mobile-friendly clone of Spotify, built to deliver a seamless music streaming experience.  
 This project demonstrates my skills in vanilla HTML,CSS,JS to create a responsive and interactive application.
+Live linke : [Spotify Web Mobile Player Clone](https://spotify-clone-indol-nine.vercel.app/)
 
 **Key Features:**
 - 🎶 Stream music with a familiar Spotify-like interface
