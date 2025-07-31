@@ -2,7 +2,7 @@
 
 - 🎓 I am a BTech student in Information Technology at **Samrat Ashok Technological Institute, Vidisha**.
 - 🌍 Currently based in **Bhopal**.
-- 💡 I love solving real-world problems using the technologies I'm learning. I'm curious, have strong organizational skills, and enjoy exploring new ideas.
+- 💡 I love solving real-world problems using the technologies I'm learning. I'm curious, have good organizational skills, and enjoy exploring new ideas.
 - 💻 **Programming Languages:** C, Python, SQLite, JavaScript, Java  
   **Frameworks:** Flask
 
