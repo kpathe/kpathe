@@ -6,8 +6,8 @@
 - 💻 **Core Fundamentals:** Data Structures & Algorithms (DSA)
 - 🛠️ **Tech Stack & Skills:**
   - **Programming Languages:** C, C++, Python, JavaScript, Java  
-  - **Frontend & Backend:** React, Node.js, Flask
-  - **Databases, Tools & DevOps:** SQLite, Docker, Nginx
+  - **Frontend & Backend:** React, Redux Toolkit , Express.JS Node.js, Flask
+  - **Databases, Tools & DevOps:** MongoDB, SQLite, Docker, Nginx
 
 ---
 
