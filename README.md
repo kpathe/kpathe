@@ -3,15 +3,18 @@
 - 🎓 I am a BTech student in Information Technology at **Samrat Ashok Technological Institute, Vidisha**.
 - 🌍 Currently based in **Bhopal**.
 - 💡 I love solving real-world problems using the technologies I'm learning. I'm curious, have good organizational skills, and enjoy exploring new ideas.
-- 💻 **Programming Languages:** C, Python, SQLite, JavaScript, Java  
-  **Frameworks:** Flask
+- 💻 **Core Fundamentals:** Data Structures & Algorithms (DSA)
+- 🛠️ **Tech Stack & Skills:**
+  - **Programming Languages:** C, C++, Python, JavaScript, Java  
+  - **Frontend & Backend:** React, Node.js, Flask
+  - **Databases, Tools & DevOps:** SQLite, Docker, Nginx
 
 ---
 
 ## 🚀 Project Highlight: [Spotify-Web-Mobile](https://github.com/kpathe/Spotify-Web-Mobile)
 
 @kpathe/Spotify-Web-Mobile is a web-based and mobile-friendly clone of Spotify, built to deliver a seamless music streaming experience.  
-This project demonstrates my skills in vanilla HTML,CSS,JS to create a responsive and interactive application.
+This project demonstrates my skills in vanilla HTML, CSS, and JS to create a responsive and interactive application.
 
 Live link : [Spotify Web Mobile Player Clone](https://spotify-clone-indol-nine.vercel.app/)
 
