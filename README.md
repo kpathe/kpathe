@@ -29,9 +29,8 @@ Hi there! I'm **Kaushlendra Pathe**, a passionate Full-Stack Developer focused o
 
 ---
 
-### 📅 Contribution Graph
-![Kaushlendra's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kpathe&theme=radical)
-
+### 📅 Contribution Grid
+![Kaushlendra's Grid](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kpathe&theme=dracula)
 ---
 
 ## 💼 Connect With Me
