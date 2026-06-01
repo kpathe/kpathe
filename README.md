@@ -77,7 +77,7 @@ Hi there! I'm **Kaushlendra Pathe**, a passionate Full-Stack Developer focused o
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kpathe&layout=compact&theme=radical)
 
 ### 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kpathe&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kpathe&theme=radical)](https://git.io/streak-stats)
 
 ---
 
