@@ -36,6 +36,12 @@ Hi there! I'm **Kaushlendra Pathe**, a passionate Full-Stack Developer focused o
 
 ### 📅 Contribution Grid
 ![Kaushlendra's Grid](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kpathe&theme=dracula)
+
+---
+### Leetcode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/kaushlendrapathe?theme=dark&font=Pangolin&ext=heatmap)
+
 ---
 
 ## 💼 Connect With Me
